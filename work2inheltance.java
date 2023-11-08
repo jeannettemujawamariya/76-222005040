@@ -1,4 +1,4 @@
-public class Visa{
+public class Visa{//java pragram for interface and implementation
     public void Give(){
         System.out.println("Give me the result");
     }
